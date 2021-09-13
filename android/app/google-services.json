@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "813304507862",
+    "project_id": "robindo-2eac4",
+    "storage_bucket": "robindo-2eac4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813304507862:android:9c6fd3259a4d8e03ce0877",
+        "android_client_info": {
+          "package_name": "Robin.Do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813304507862-mc3qvfdilentplojbefb327ss2sjvv3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWW3_yTpqibUakN3mLoQzCJeQC6NaDCZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813304507862-mc3qvfdilentplojbefb327ss2sjvv3g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "813304507862-1qq0lnn5r73c76o4sn3qrc8b4j0ph568.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "RobinDo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
