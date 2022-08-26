@@ -1,40 +1,48 @@
 {
   "project_info": {
-    "project_number": "813304507862",
-    "project_id": "robindo-2eac4",
-    "storage_bucket": "robindo-2eac4.appspot.com"
+    "project_number": "358928684995",
+    "project_id": "lockdown-journey-7f120",
+    "storage_bucket": "lockdown-journey-7f120.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:813304507862:android:9c6fd3259a4d8e03ce0877",
+        "mobilesdk_app_id": "1:358928684995:android:52ebf6b98b183df9c50f76",
         "android_client_info": {
-          "package_name": "Robin.Do"
+          "package_name": "com.stolenflame.lockdownjourney"
         }
       },
       "oauth_client": [
         {
-          "client_id": "813304507862-mc3qvfdilentplojbefb327ss2sjvv3g.apps.googleusercontent.com",
+          "client_id": "358928684995-7md2raje1q9n1td6lrfkb6rm0jqo5rs8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stolenflame.lockdownjourney",
+            "certificate_hash": "0bfbd4cacb13d48f15430f72482a6abb8c2a4f02"
+          }
+        },
+        {
+          "client_id": "358928684995-qrrca1frearhvo0n0ii0jhe288d3637h.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAWW3_yTpqibUakN3mLoQzCJeQC6NaDCZM"
+          "current_key": "AIzaSyAeCfCwYvlmamzaoGBCxaT1OvC7MZZakpM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "813304507862-mc3qvfdilentplojbefb327ss2sjvv3g.apps.googleusercontent.com",
+              "client_id": "358928684995-qrrca1frearhvo0n0ii0jhe288d3637h.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "813304507862-1qq0lnn5r73c76o4sn3qrc8b4j0ph568.apps.googleusercontent.com",
+              "client_id": "358928684995-i0ucm1ov0deeh3tb62s2vakp8mi3s0t0.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "RobinDo"
+                "bundle_id": "com.stolenflame.lockdownJourney"
               }
             }
           ]

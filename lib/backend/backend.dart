@@ -86,4 +86,6 @@ Future maybeCreateUser(User user) async {
   );
 
   await userRecord.set(userData);
+
+  //set initial level, exp, and states
 }

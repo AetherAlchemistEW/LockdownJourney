@@ -2,10 +2,8 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'auth/firebase_user_provider.dart';
-import '../flutter_flow/flutter_flow_theme.dart';
 import 'package:lockdown_journey/login_page/login_page_widget.dart';
 import 'package:lockdown_journey/tasks/tasks_widget.dart';
-import 'package:flutter_spinkit/flutter_spinkit.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
